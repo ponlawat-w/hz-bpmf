@@ -1,6 +1,6 @@
 # 常用字 → ㄅㄆㄇㄈ data
 
-In csv file cosists of: first column to be most common Chinese character, second column to be its reading in bopomofo system (zhuin).
+In csv file cosists of: **first column** to be most common Chinese character, **second column** to be its reading in bopomofo system (zhuyin).
 
 ## References
 
